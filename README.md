@@ -2,22 +2,22 @@
 Landing Page Made Using the help of HTML, CSS, JS.
 
 
-![Screenshot (9738)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/e30dcd19-d77f-4708-8703-e72e158282d3)
+![Screenshot (10934)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/1bde5209-af68-4ca3-916a-531ca19e3a86)
 
 
-![Screenshot (9739)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/5f0c5030-09f9-4308-b3b5-624e8f999e07)
+![Screenshot (10935)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/c422ea5c-fed0-4320-bd09-64f6cf082817)
 
 
-![Screenshot (9740)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/57f253f1-e55f-41fd-9d60-cabe190fa972)
+![Screenshot (10936)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/9bff8ad5-415b-417c-ae15-6bb5c057b2ad)
 
 
-![Screenshot (9741)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/e3849199-502a-4aa6-ae7a-f8def0efabc9)
+![Screenshot (10937)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/862c5ba6-b2d9-4b53-834c-d0f2ffab843b)
 
 
-![Screenshot (9742)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/3547fb7e-ecba-4bd5-9f59-0242e589fb8f)
+![Screenshot (10938)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/8c238ba4-539b-4d76-922b-0f8781865927)
 
 
-![Screenshot (9743)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/da3d8c4e-65e0-4fe6-a9c8-ad59fa027519)
+![Screenshot (10939)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/efa33c09-8f13-4e37-a9f8-421f786ca450)
 
 
-![Screenshot (9744)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/02b307d4-7746-4c35-be71-78d073d1cf02)
+![Screenshot (10940)](https://github.com/debjyotidas111/-TWSIP_Landing-Page/assets/86339364/a34ff994-696c-43a4-8a24-d26dd74079cb)
